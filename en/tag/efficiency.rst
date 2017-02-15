@@ -1,5 +1,5 @@
 JavaScript Tag efficency
-=======================
+========================
 
 * Asynchronous
 

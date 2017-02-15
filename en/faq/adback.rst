@@ -103,6 +103,7 @@ We propose:
 - To watch a video ad to access the content 
 
 Is AdBack free?
+-----------
 The whole analytics module is free and available to all. Only the message display with all the deactivation features and alternative solutions is a paid service. If you want to know the different options, refer to the “Price” part of our website. 
 
 .. _Test AdBack: https://www.adback.co/fr/register/

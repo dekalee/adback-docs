@@ -6,7 +6,7 @@ Frequently asked questions
 Api calls have to be made server-to-server. We are also recommending to use a cache
 system. as it is necessary to verify the updates of scripts only once a day.
 
-* Can I call API with Javascript from the browser?
+* Can I call API with JavaScript from the browser?
 
 In absolute terms yes, but the usage shouldn't be made "public" as your token is personal. Take car of it
 because if your token gets into hands of someone, this person can access all your statistics as well as

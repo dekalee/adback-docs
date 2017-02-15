@@ -1,6 +1,14 @@
 Welcome to AdBack's documentation
 =================================
 
+.. _Faq:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: FAQ
+
+   faq/adback
+
 .. _Api:
 
 .. toctree::

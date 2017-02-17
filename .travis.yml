@@ -11,5 +11,3 @@ before_install:
 
 script:
   - make html 2>&1 | grep "ERROR:\|WARNING:" | exit `wc -l`
-  - cd ../fr
-  - make html 2>&1 | grep "ERROR:\|WARNING:" | exit `wc -l`

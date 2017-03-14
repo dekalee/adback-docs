@@ -141,5 +141,5 @@ features and alternative solutions is a paid service. If you want to know the di
 “Price” part of our website.
 
 .. _Test AdBack: https://www.adback.co/fr/register/
-.. _here: https://www.adback.co/adback_plugin_wordpress_antiadblock.zip
+.. _here: https://wordpress.org/plugins/adback-solution-to-adblock/
 .. _AdBack dashboard: https://www.adback.co/en/sites/dashboard

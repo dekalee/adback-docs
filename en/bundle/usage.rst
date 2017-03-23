@@ -13,4 +13,7 @@ To display the tag in your page, you can add the twig command:
 
     {{ adback_generate_scripts() }}
 
+Autopromo
+---------
+
 We can also display the autopromo banner with a twig helper.

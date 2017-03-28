@@ -48,7 +48,7 @@ Here is a sample script for server to server API usage :
         $messageDomain = $scriptElement['message_domain'];
         $messageScript = $scriptElement['message_script'];
         $customMessageScript = <<<EOS
-            (function (a,d){var s,t,u;s=d.createElement(‘script’);
+            (function (a,d){var s,t;s=d.createElement(‘script’);
             s.src=a;s.async=1;
             t=d.getElementsByTagName('script')[0];
             t.parentNode.insertBefore(s,t);

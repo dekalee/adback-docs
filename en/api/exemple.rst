@@ -4,7 +4,7 @@ PHP sample script
 Analytics and message script
 ----------------------------
 
-Here is a sample script for server to server API usage :
+Here is a script sample for server to server API usage :
 
 .. code-block:: php
 
@@ -69,7 +69,7 @@ Autopromo banner script
 
 Here is a sample code used to add an autopromo banner on your website.
 
-Note that the script should be located in the destination `div`.
+Note that the script should be located in the `div` destination.
 
 .. code-block:: php
 

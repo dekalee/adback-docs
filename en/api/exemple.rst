@@ -96,7 +96,7 @@ Note that the script should be located in the destination `div`.
     }
 
     /*
-    CREATE THE ANALYTICS SCRIPT
+    CREATE THE BANNER SCRIPT
     */
     $autopromoBannerDomain = $scriptElement['autopromo_banner_domain'];
     $autopromoBannerScript = $scriptElement['autopromo_banner_script'];

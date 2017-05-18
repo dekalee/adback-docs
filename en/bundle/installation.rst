@@ -3,7 +3,7 @@ Installation
 
 Launch the command :
 
-.. code-block:: bash
+.. code-block:: bash
 
     composer require "dekalee/adback-analytics-bundle"
 

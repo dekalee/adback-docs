@@ -26,4 +26,10 @@ To display the autopromo banner in your page, you can add the twig command:
 
 .. code-block:: twig
 
-    {{ adback_generate_autopromo_banner_script(bannerId) }}
+    {{ adback_generate_autopromo_banner_script() }}
+
+In order to display a banner, you should add the following element in your page:
+
+.. code-block:: html
+
+    <div data-tags="tag"></div>

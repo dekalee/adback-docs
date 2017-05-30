@@ -13,7 +13,7 @@ Add a Google Analytics Dimension
 
 * On AdBack.co side:
 
-1. Go to https://www.adback.co/en/admin/config
+1. Go to https://www.adback.co/en/integration/google/analytics
 2. Click on **Edit website**
 3. Select the dimension id previously created
 
